@@ -574,16 +574,6 @@ procurement-vendor-management/
 │   ├── vendor-notification-flow.png
 │   ├── quotation-notification-flow.png
 │   └── agreement.png
-│
-├── force-app/
-│   └── main/
-│       └── default/
-│           ├── objects/
-│           ├── flows/
-│           ├── layouts/
-│           ├── profiles/
-│           └── permissionsets/
-│
 └── docs/
     └── architecture.md
 ```
