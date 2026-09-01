@@ -623,7 +623,7 @@ sf apex run test
 
 ------------------------------------------------------------------------
 
-## 🧪 Testing Scenarios
+##  Testing Scenarios
 
   -----------------------------------------------------------------------
   Test Case                           Expected Result
@@ -654,7 +654,7 @@ sf apex run test
 
 ------------------------------------------------------------------------
 
-## 📊 Key Benefits
+##  Key Benefits
 
 -   **Centralized procurement:** Procurement information is maintained
     within Salesforce.
@@ -673,7 +673,7 @@ sf apex run test
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 Potential improvements for a production-grade implementation include:
 
@@ -696,7 +696,7 @@ Potential improvements for a production-grade implementation include:
 
 ------------------------------------------------------------------------
 
-## 📌 Project Status
+##  Project Status
 
 **Current implementation includes:**
 
@@ -715,7 +715,7 @@ Potential improvements for a production-grade implementation include:
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Project Summary
+##  Project Summary
 
 The **Procurement & Vendor Management System** demonstrates how
 Salesforce can be configured as an enterprise procurement workflow
@@ -729,7 +729,7 @@ structured, traceable, and automated workflow.
 
 ------------------------------------------------------------------------
 
-## ⭐ Repository Presentation Tip
+##  Repository Presentation Tip
 
 For a strong GitHub project presentation, place your **best Salesforce
 screenshots near the top** of the README and include screenshots of:
