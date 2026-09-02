@@ -12,7 +12,7 @@ and agreement acceptance.
 
 ------------------------------------------------------------------------
 
-## 📌 Project Overview
+##  Project Overview
 
 Manual procurement processes become difficult to manage when multiple
 departments, finance teams, vendors, and management stakeholders are
