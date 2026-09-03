@@ -35,7 +35,7 @@ role-based access, and Flow automation capabilities.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objectives
+##  Objectives
 
 1.  Digitize the procurement request lifecycle.
 2.  Provide controlled access based on user responsibilities.
@@ -50,7 +50,7 @@ role-based access, and Flow automation capabilities.
 
 ------------------------------------------------------------------------
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The application is organized into four logical layers.
 
@@ -132,7 +132,7 @@ Procurement Completed
 
 ------------------------------------------------------------------------
 
-## 👥 User Roles
+##  User Roles
 
   -----------------------------------------------------------------------
   Role                                Responsibility
