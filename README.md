@@ -157,7 +157,7 @@ Procurement Completed
 
 ------------------------------------------------------------------------
 
-## 🧩 Functional Modules
+##  Functional Modules
 
 ### 1. Purchase Request Module
 
@@ -214,7 +214,7 @@ process.
 
 ------------------------------------------------------------------------
 
-## 🗃️ Salesforce Data Model
+##  Salesforce Data Model
 
 ### Purchase Request
 
@@ -307,7 +307,7 @@ review and process quotations in context.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Salesforce Automation
+##  Salesforce Automation
 
 The solution uses **Record-Triggered Flows** to automate communication
 between stakeholders.
