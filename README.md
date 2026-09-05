@@ -74,9 +74,9 @@ The application is organized into four logical layers.
 └──────────────────────┬──────────────────────┘
                        ↓
 ┌─────────────────────────────────────────────┐
-│             AUTOMATION LAYER               │
+│             AUTOMATION LAYER                │
 │       Salesforce Record-Triggered Flows     │
-│          + Automated Email Alerts            │
+│          + Automated Email Alerts           │
 └─────────────────────────────────────────────┘
 ```
 
@@ -560,8 +560,7 @@ procurement-vendor-management/
 │   ├── vendor-notification-flow.png
 │   ├── quotation-notification-flow.png
 │   └── agreement.png
-└── docs/
-    └── architecture.md
+
 ```
 
 ------------------------------------------------------------------------
