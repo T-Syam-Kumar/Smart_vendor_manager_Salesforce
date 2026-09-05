@@ -525,11 +525,23 @@ below.
 
 ![Vendor Notification Flow](screenshots/vendor-notification-flow.png)
 
+### Mail received by vendor 
+
+
+
+![Vendor Notification Flow](screenshots/vendor-conformation.png)
+
 ### Salesforce Flow --- Quotation Notification
 
 
 ![Quotation Notification
 Flow](screenshots/quotation-notification-flow.png)
+
+### New Request of quotation 
+
+
+![Quotation Notification
+Flow](screenshots/vendor-notification.png)
 
 ------------------------------------------------------------------------
 
