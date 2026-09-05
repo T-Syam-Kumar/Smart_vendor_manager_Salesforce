@@ -553,13 +553,10 @@ Flow](screenshots/quotation-notification-flow.png)
 
 ![Agreement](screenshots/agreement.png)
 
-> **Screenshot upload option:** Create a `screenshots/` folder in the
-> GitHub repository and upload PNG/JPG screenshots there. Replace the
-> placeholder filenames above with your actual screenshot names.
 
 ------------------------------------------------------------------------
 
-## 📁 Recommended Repository Structure
+## Repository Structure
 
 ``` text
 procurement-vendor-management/
