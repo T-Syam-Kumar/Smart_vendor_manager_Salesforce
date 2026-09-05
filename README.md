@@ -491,68 +491,45 @@ procurement process.
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
+##  Screenshots
 
 Add your Salesforce screenshots to the repository and update the paths
 below.
 
 ### Salesforce Home / Application
 
-``` markdown
-![Salesforce Application](screenshots/salesforce-home.png)
-```
+
 
 ![Salesforce Application](screenshots/salesforce-home.png)
 
 ### Purchase Request
 
-``` markdown
-![Purchase Request](screenshots/purchase-request.png)
-```
+
 
 ![Purchase Request](screenshots/purchase-request.png)
 
 ### Vendor Request
 
-``` markdown
-![Vendor Request](screenshots/vendor-request.png)
-```
 
 ![Vendor Request](screenshots/vendor-request.png)
 
 ### Quotation Request
 
-``` markdown
-![Quotation Request](screenshots/quotation-request.png)
-```
+
 
 ![Quotation Request](screenshots/quotation-request.png)
 
 ### Salesforce Flow --- Vendor Notification
 
-``` markdown
-![Vendor Notification Flow](screenshots/vendor-notification-flow.png)
-```
+
 
 ![Vendor Notification Flow](screenshots/vendor-notification-flow.png)
 
 ### Salesforce Flow --- Quotation Notification
 
-``` markdown
-![Quotation Notification Flow](screenshots/quotation-notification-flow.png)
-```
 
 ![Quotation Notification
 Flow](screenshots/quotation-notification-flow.png)
-
-### Agreement
-
-``` markdown
-![Agreement](screenshots/agreement.png)
-```
-
-![Agreement](screenshots/agreement.png)
-
 
 ------------------------------------------------------------------------
 
