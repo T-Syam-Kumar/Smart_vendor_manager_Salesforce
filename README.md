@@ -500,7 +500,7 @@ below.
 
 
 
-![Salesforce Application](screenshots/salesforce-home.png)
+![Salesforce Application](screenshots/home.png)
 
 ### Purchase Request
 
