@@ -426,7 +426,7 @@ Furniture
 
 ------------------------------------------------------------------------
 
-## 🎨 Salesforce UI Configuration
+##  Salesforce UI Configuration
 
 The project includes dedicated page layouts for the custom objects:
 
@@ -437,7 +437,7 @@ The project includes dedicated page layouts for the custom objects:
 
 ------------------------------------------------------------------------
 
-## 🔄 End-to-End Workflow
+##  End-to-End Workflow
 
 ### Step 1 --- Purchase Request
 
@@ -565,7 +565,7 @@ procurement-vendor-management/
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
   Technology                      Usage
   ------------------------------- --------------------------------------
@@ -581,7 +581,7 @@ procurement-vendor-management/
 
 ------------------------------------------------------------------------
 
-## 🚀 Deployment / Setup
+##  Deployment / Setup
 
 The project is configured as a Salesforce-based solution.
 
