@@ -284,7 +284,7 @@ Custom Salesforce object used for vendor quotation submissions.
 
 ------------------------------------------------------------------------
 
-## 🔗 Object Relationship
+##  Object Relationship
 
 A **Lookup Relationship** is implemented between **Vendor Request** and
 **Quotation Request**.
@@ -378,7 +378,7 @@ The notification includes:
 
 ------------------------------------------------------------------------
 
-## 🔐 Access & Security Model
+##  Access & Security Model
 
 The project uses Salesforce **Profiles and role-specific permissions**
 to control access to objects and records.
@@ -712,20 +712,3 @@ Automation + Email Notifications + Vendor Collaboration**
 The implementation transforms a manual procurement process into a
 structured, traceable, and automated workflow.
 
-------------------------------------------------------------------------
-
-##  Repository Presentation Tip
-
-For a strong GitHub project presentation, place your **best Salesforce
-screenshots near the top** of the README and include screenshots of:
-
-1.  Purchase Request record
-2.  Principal approval/status
-3.  Finance approval
-4.  Vendor Request
-5.  Vendor quotation
-6.  Flow Builder automation
-7.  Agreement record
-
-This makes the repository immediately understandable to recruiters and
-Salesforce developers.
