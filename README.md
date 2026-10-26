@@ -9,9 +9,7 @@ and agreement acceptance.
 > **Primary Automation:** Salesforce Flow / Record-Triggered Flow\
 > **Architecture:** User Layer → Application Layer → Data Layer →
 > Automation Layer
-
 ------------------------------------------------------------------------
-
 ##  Project Overview
 
 Manual procurement processes become difficult to manage when multiple
