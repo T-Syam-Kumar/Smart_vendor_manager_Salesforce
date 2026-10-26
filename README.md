@@ -704,7 +704,7 @@ Potential improvements for a production-grade implementation include:
 
 The **Procurement & Vendor Management System** demonstrates how
 Salesforce can be configured as an enterprise procurement workflow
-platform by combining:
+platform by combining.
 
 **Custom Data Modeling + Role-Based Access + Salesforce Flow
 Automation + Email Notifications + Vendor Collaboration**
